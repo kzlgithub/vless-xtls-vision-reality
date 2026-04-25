@@ -3,6 +3,10 @@
 ### 可用域名
 ```
 yahoo.com
+addons.mozilla.org
+www.apple.com
+aws.amazon.com
+www.ikea.com
 
 ```
 <br><br><br>
