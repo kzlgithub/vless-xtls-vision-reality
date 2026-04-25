@@ -1,5 +1,10 @@
 # vless-xtls-vision-reality
-vless+xtls+vision+reality 3xui配置
+
+### 可用域名
+```
+yahoo.com
+
+```
 <br><br><br>
 ![项目截图](image/1.png)
 <br><br><br>
